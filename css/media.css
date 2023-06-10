@@ -1,0 +1,142 @@
+@media only screen and (min-width:1000px) and (max-width:1198px){
+ .logomain .callbox ul li + li {margin-left: 8px;}
+ .logomain .callbox ul li {padding-left:58px; }
+ .logomain .callbox {  margin-top: 15px;}
+ .menubox .menumain {padding-right: 130px;}
+ .menubox .menumain .top_apply { width: 120px;}
+.stellarnav > ul > li > a { padding: 16px 6px;font-size: 11px; text-transform:capitalize;}
+.latest_news .latest_newsbox .latest_newsinfo h4{font-size:12px;}
+.latest_news .latest_newsbox .latest_newsinfo{width: 62%;}
+.welcome_main .welcome p{font-size: 13px;line-height: 20px;}
+.about_services .service_box h3{ font-size:20px;}
+.about_services .service_box p { overflow: hidden; text-overflow: ellipsis;   display: -webkit-box;   -webkit-line-clamp:3; /* number of lines to show */   -webkit-box-orient: vertical;}
+
+.about_services .service_box {   padding: 30px; }
+header .top .topsocial ul li a {    padding: 0 9px;}
+}
+@media only screen and (min-width:768px) and (max-width:999px){
+ .stellarnav > ul > li.menuapply{ display:block;} 
+  .menubox .menumain .top_apply{ display:none;}
+ .menubox .menumain { padding-right: 0;}
+ 
+.stellarnav > ul > li > a { padding: 16px 5px;font-size: 13px; font-size:11px;text-transform: capitalize;} 
+  .logomain .callbox ul li:last-child{display:none;}
+  .logomain .callbox { margin-top: 6px;}
+  header .top .call::after {  right: -4px;}
+  .logomain .callbox ul li + li {    margin-left: 15px;}
+  .logomain .reg { bottom: 6px; font-size: 11px;}
+  header .top .topsocial ul li a {padding: 0 9px;}
+} 
+
+@media only screen and (min-width:480px) and (max-width:767px){ 
+header .top .call ul {    display: table;    margin: 0 auto;}
+header .top .call:after { right: -100%;border: none;background: #0D4B90;width: 100%;top: 0;}
+ header .top .call {padding: 10px 0;}
+ header .top .topsocial { float: none; margin: auto; display: table;}
+ .logomain .logo{ text-align:center;}
+ .logomain .logo img{ max-height:80px;}
+ .logomain .reg {position: relative;width: 100%; bottom: 0; font-size: 11px; padding:5px 10px 0;}
+ .logomain .callbox ul { float: none; margin:0 auto;}
+ .logomain .callbox ul li figure{ display:none;}
+ .logomain .callbox ul li{ padding-left:0;} 
+ .logomain .callbox ul li + li {margin-left: 10px;}
+ .logomain .callbox { margin-top: 10px;}
+ .menubox .menumain .top_apply{ display:none;}
+ .menubox .menumain { padding-right: 0;}
+/* #elementor{ display:none;} */
+ .welcome_main .welcome h1 {  font-size: 14px;  line-height: 22px;} 
+ .welcome_main .welcome h1 strong, .welcome_main .welcome h1 span{font-size:18px;}
+ .welcome_main {padding: 20px 0;}
+ .welcome_main .welcome p {font-size: 14px;line-height: 20px;text-align: left;} 
+ .welcome_main figure{ margin:20px auto;}
+ .welcome_main .home_news h2 {font-size: 18px; margin-bottom:5px;}
+ .latest_news ul li + li {padding-top: 10px;margin-top: 10px;}
+ .welcome_main .welcome, .latest_news{ padding-bottom:40px;}
+ .latest_news .latest_newsbox figure {margin-top: 5px;}
+ .stellarnav > ul > li.menuapply{ display:block;}
+ #offering .download_link ul li{ max-width:100%;}
+ 
+.about_services {   padding: 10px 0 20px;}
+ .about_services .service_box h3{ font-size:20px;}
+.about_services .service_box p { overflow: hidden; text-overflow: ellipsis;   display: -webkit-box;   -webkit-line-clamp:3; /* number of lines to show */   -webkit-box-orient: vertical;}
+ .about_services .service_box { padding: 40px;  min-height: auto;}
+ #offering .offering_box ol li{width:100%; float:none;margin-right: 0; }
+ #offering .offering_box ol li span { display:block;}
+ .plcemet_list ol{   -webkit-column-count:1;    -moz-column-count: 1;    column-count: 1;  }
+}
+
+@media only screen and (max-width:479px){ 
+header .top .call ul {    display: table;    margin: 0 auto;}
+ header .top .call:after { right: -100%;border: none;background: #0D4B90;width: 100%;top: 0;}
+ header .top .call {padding: 10px 0;}
+ header .top .topsocial { float: none; margin: auto; display: table;}
+ .logomain .logo{ text-align:left;}
+ 
+ .logomain .reg {position: relative;width: 100%;bottom: 0;font-size: 11px;padding:5px 10px 0;display: none;}
+ .logomain .callbox ul { float: none; margin:0 auto;}
+ .logomain .callbox ul li figure{ display:none;}
+ .logomain .callbox ul li{ padding-left:0; min-height:auto;}
+ .logomain .callbox ul li:last-child{display:none;}
+ .logomain .callbox ul li + li {margin-left: 10px;}
+  .logomain .callbox ul li span{ display:none;}
+ .logomain .callbox {margin-top: 10px;display: none;}
+ .menubox .menumain .top_apply{ display:none;}
+ .menubox .menumain { padding-right: 0;}
+/* #elementor{ display:none;}*/ 
+ .welcome_main .welcome h1 {  font-size: 14px;  line-height: 22px;} 
+ .welcome_main .welcome h1 strong, .welcome_main .welcome h1 span{font-size:18px;}
+ .welcome_main {padding: 20px 0;}
+ .welcome_main .welcome p {font-size: 14px;line-height: 20px;text-align: left;} 
+ .welcome_main figure{ margin:20px auto;}
+ .welcome_main .home_news h2 {font-size: 18px; margin-bottom:5px;}
+ .latest_news ul li + li {padding-top: 10px;margin-top: 10px;}
+ .welcome_main .welcome, .latest_news{ padding-bottom:40px;}
+ .latest_news .latest_newsbox figure {margin-top: 5px;}
+ .stellarnav > ul > li.menuapply{ display:block;}
+#offering .download_link ul li{ max-width:100%;}
+
+ 
+.testimonial_crwasals .testimonial_box { padding:130px 20px 0 20px;}
+ 
+.testimonial_crwasals .testimonial_box figure {left: 0; right:0; margin:auto;top: 35px;}
+
+
+/*about*/
+.innerbannertitle .maintitle { font-size: 24px;}
+.innerbannertitle .maintitlebox { padding: 30px 0 10px;  margin:20px 0 ; }
+.about{ padding-bottom:10px;}
+.about h1 {  font-size: 14px;  line-height: 22px;} 
+.about h1 strong, .about h1 span{font-size:18px;}
+.welcome_main {padding: 20px 0;}
+.about p {font-size: 14px;line-height: 20px;text-align: left;} 
+.about_services {  padding:10px 0;}
+.about_services .service_box { padding: 20px;min-height:auto;}
+.about_services .service_box h3{ font-size:18px;}
+.about_services .service_box i {font-size: 40px;}
+#offering .offering_box ol li{width:100%; float:none;margin-right: 0;font-size: 12px;}
+#offering .offering_box ol li span { display:block;}
+
+/*course detai*/
+
+.cms h1{ font-size:24px;}
+
+.listing_detail h2, .listing_detail h3 { font-size: 16px;}
+.table_formate thead { font-size: 16px;}
+.listing_detail h4 { font-size: 15px;}
+.listing_detail p{ text-align:left; font-size:13px;}
+.opening .openingbox ul li {  font-size: 12px;}
+.view_sylabus ul li i { width: 45px; height: 45px; line-height: 45px; font-size: 30px; }
+.view_sylabus ul li { padding-left: 60px;}
+.view_sylabus ul li span {  padding: 5px 0 0;}
+.list_order ul li{ text-align:left;}
+
+.plcemet_list ol{   -webkit-column-count:1;    -moz-column-count: 1;    column-count: 1;  }
+.bannercrawsal figure img{ height: 190px;object-fit: cover; width: 100%;}
+
+
+.logomain .mobile{ display:inline-block;}
+.desktop{ display:none;}
+
+
+
+}

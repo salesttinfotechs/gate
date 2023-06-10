@@ -1,0 +1,40 @@
+.jarallax {
+position: relative;
+z-index: 0;
+}
+.jarallax > .jarallax-img {
+position: absolute;
+object-fit: cover;
+/* support for plugin https://github.com/bfred-it/object-fit-images */
+font-family: 'object-fit: cover;';
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: -1;
+}
+
+.jarallax-keep-img {
+position: relative;
+z-index: 0;
+}
+.jarallax-keep-img > .jarallax-img {
+position: relative;
+display: block;
+max-width: 100%;
+height: auto;
+z-index: -100;
+}
+.offeringbg{ background:url(../images/offeringbg.jpg) no-repeat; background-size:cover;}
+.offeringbg:before{ content:''; left:0; right:0; top:0; bottom:0; background:rgba(12, 51, 80, 0.88); position:absolute;}
+
+.bright_counterbg{ background:url(../images/bright_counterbg.jpg) no-repeat; background-size:cover;}
+.bright_counterbg:before{ content:''; left:0; right:0; top:0; bottom:0; background:rgba(15, 26, 34, 0.84); position:absolute;}
+
+.video_homebg{ background:url(../images/video_homebg.jpg) no-repeat; background-size:cover;}
+.video_homebg:before{ content:''; left:0; right:0; top:0; bottom:0; background:rgba(20, 46, 66, 0.51); position:absolute;}
+
+.innerbanner{  display:block;}
+.innerbanner:before{ content:''; left:0; right:0; top:0; bottom:0;background:rgba(0, 0, 0, 0.54); position:absolute;} 
+.videobg{ background:url(../images/videobg.jpg) no-repeat; background-size:cover; max-height:650px;}
+.videobg:before{ content:''; left:0; right:0; top:0; bottom:0; background:rgba(65, 44, 23, 0.6); position:absolute;}

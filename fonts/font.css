@@ -1,0 +1,149 @@
+ 
+ @font-face {
+  font-family: 'linea-arrows-10';
+  src: url('linea-arrows-10d41d.eot?#iefix') format('embedded-opentype'),  url('linea-arrows-10.woff') format('woff'), url('linea-arrows-10.ttf')  format('truetype'), url('linea-arrows-10.svg#linea-arrows-10') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('Roboto-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('Roboto-Regular.woff') format('woff'), url('Roboto-Regular.ttf')  format('truetype'), url('Roboto-Regular.svg#Roboto-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+} 
+ @font-face {
+  font-family: 'Roboto-Light';
+  src: url('Roboto-Lightd41d.eot?#iefix') format('embedded-opentype'),  url('Roboto-Light.woff') format('woff'), url('Roboto-Light.ttf')  format('truetype'), url('Roboto-Light.svg#Roboto-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Roboto-Black';
+  src: url('Roboto-Blackd41d.eot?#iefix') format('embedded-opentype'),  url('Roboto-Black.woff') format('woff'), url('Roboto-Black.ttf')  format('truetype'), url('Roboto-Black.svg#Roboto-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+ @font-face {
+  font-family: 'Poppins-Regular';
+  src: url('Poppins-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('Poppins-Regular.woff') format('woff'), url('Poppins-Regular.ttf')  format('truetype'), url('Poppins-Regular.svg#Poppins-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins-Light';
+  src: url('Poppins-Lightd41d.eot?#iefix') format('embedded-opentype'),  url('Poppins-Light.woff') format('woff'), url('Poppins-Light.ttf')  format('truetype'), url('Poppins-Light.svg#Poppins-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('Poppinsd41d.eot?#iefix') format('embedded-opentype'),  url('Poppins.woff') format('woff'), url('Poppins.ttf')  format('truetype'), url('Poppins.svg#Poppins') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Oswald-Light';
+  src: url('Oswald-Lightd41d.eot?#iefix') format('embedded-opentype'),  url('Oswald-Light.woff') format('woff'), url('Oswald-Light.ttf')  format('truetype'), url('Oswald-Light.svg#Oswald-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oswald-Regular';
+  src: url('Oswald-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('Oswald-Regular.woff') format('woff'), url('Oswald-Regular.ttf')  format('truetype'), url('Oswald-Regular.svg#Oswald-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PlayfairDisplay-Regular';
+  src: url('PlayfairDisplay-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('PlayfairDisplay-Regular.woff') format('woff'), url('PlayfairDisplay-Regular.ttf')  format('truetype'), url('PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PlayfairDisplay-Bold';
+  src: url('PlayfairDisplay-Boldd41d.eot?#iefix') format('embedded-opentype'),  url('PlayfairDisplay-Bold.woff') format('woff'), url('PlayfairDisplay-Bold.ttf')  format('truetype'), url('PlayfairDisplay-Bold.svg#PlayfairDisplay-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RobotoSlab-Regular';
+  src: url('RobotoSlab-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('RobotoSlab-Regular.woff') format('woff'), url('RobotoSlab-Regular.ttf')  format('truetype'), url('RobotoSlab-Regular.svg#RobotoSlab-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CenturyGothic';
+  src: url('CenturyGothicd41d.eot?#iefix') format('embedded-opentype'),  url('CenturyGothic.woff') format('woff'), url('CenturyGothic.ttf')  format('truetype'), url('CenturyGothic.svg#CenturyGothic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'CenturyGothic-Bold';
+  src: url('CenturyGothic-Boldd41d.eot?#iefix') format('embedded-opentype'),  url('CenturyGothic-Bold.woff') format('woff'), url('CenturyGothic-Bold.ttf')  format('truetype'), url('CenturyGothic-Bold.svg#CenturyGothic-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TrajanPro-Regular';
+  src: url('TrajanPro-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('TrajanPro-Regular.otf')  format('opentype'),
+	     url('TrajanPro-Regular.woff') format('woff'), url('TrajanPro-Regular.ttf')  format('truetype'), url('TrajanPro-Regular.svg#TrajanPro-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TrajanPro-Bold';
+  src: url('TrajanPro-Boldd41d.eot?#iefix') format('embedded-opentype'),  url('TrajanPro-Bold.otf')  format('opentype'),
+	     url('TrajanPro-Bold.woff') format('woff'), url('TrajanPro-Bold.ttf')  format('truetype'), url('TrajanPro-Bold.svg#TrajanPro-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EBGaramond-Regular';
+  src: url('EBGaramond-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('EBGaramond-Regular.woff') format('woff'), url('EBGaramond-Regular.ttf')  format('truetype'), url('EBGaramond-Regular.svg#EBGaramond-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "chroniclehairline-roman";
+  src: url("https://www.giannidinatale.com/wp-content/uploads/redux/custom-fonts/custom/chroniclehairline-roman/Chroniclehairline-roman.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'OldStandardTT-Regular';
+  src: url('OldStandardTT-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('OldStandardTT-Regular.woff') format('woff'), url('OldStandardTT-Regular.ttf')  format('truetype'), url('OldStandardTT-Regular.svg#OldStandardTT-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ElliotSans-Regular';
+  src: url('ElliotSans-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('ElliotSans-Regular.woff') format('woff'), url('ElliotSans-Regular.ttf')  format('truetype'), url('ElliotSans-Regular.svg#ElliotSans-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Raleway-Regular';
+  src: url('Raleway-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('Raleway-Regular.woff') format('woff'), url('Raleway-Regular.ttf')  format('truetype'), url('Raleway-Regular.svg#Raleway-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Raleway-Light';
+  src: url('Raleway-Lightd41d.eot?#iefix') format('embedded-opentype'),  url('Raleway-Light.woff') format('woff'), url('Raleway-Light.ttf')  format('truetype'), url('Raleway-Light.svg#Raleway-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Lora-Regular';
+  src: url('Lora-Regulard41d.eot?#iefix') format('embedded-opentype'),  url('Lora-Regular.woff') format('woff'), url('Lora-Regular.ttf')  format('truetype'), url('Lora-Regular.svg#Lora-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
