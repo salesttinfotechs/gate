@@ -1,4 +1,4 @@
-# gate
+# gate https://gate.ac.in
 # git clone steps
 
 # step 1 :- git clone https://github.com/salesttinfotechs/gate.git
